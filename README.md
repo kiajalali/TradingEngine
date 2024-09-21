@@ -1,8 +1,8 @@
 # TradingEngine
 A Multithreaded Trading Engine Written in C++
 
-
-
+## Scope of Project
+The purpose of this project is to implement an Orderbook and a Matching Engine.
 
 # Citations/Resources
 * [Nasdaq TotalView-ITCH 5.0](https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHSpecification.pdfhttps://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHSpecification.pdf)
