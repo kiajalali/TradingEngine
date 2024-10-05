@@ -1,3 +1,6 @@
+# NOTE
+If you're interested in viewing the source code, please reach out to me directly. I've kept it private to prevent unauthorized copying, as I've encountered this issue in the past.
+
 # TradingEngine
 A Multithreaded Trading Engine Written in C++
 
